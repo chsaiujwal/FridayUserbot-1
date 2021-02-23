@@ -4,6 +4,9 @@ moviepy
 nospamplus
 pymediainfo
 apscheduler
+pdf2docx
+cryptocompare==0.7.3
+pdf2docx
 git+https://github.com/chsaiujwal/maigret
 img2pdf
 google_images_download>=2.7.1
@@ -90,5 +93,4 @@ wikipedia>=1.4.0
 youtube-search
 password_strength
 pyjokes
-cryptocompare
 googletrans
