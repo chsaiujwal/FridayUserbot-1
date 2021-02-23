@@ -1,5 +1,6 @@
 Pillow
 google-trans-new
+deezer-python
 nospamplus
 pymediainfo
 apscheduler
