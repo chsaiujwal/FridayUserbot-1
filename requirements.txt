@@ -1,6 +1,6 @@
 Pillow
 google-trans-new
-deezer-python
+moviepy
 nospamplus
 pymediainfo
 apscheduler
