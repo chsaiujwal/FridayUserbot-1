@@ -40,7 +40,10 @@ for name in files:
     with open(name) as f:
         path1 = Path(f.name)
         shortname = path1.stem
-        load_module(shortname.replace(".py", ""))
+        try;
+           load_module(shortname.replace(".py", ""))
+        except:
+           pass
 
 if Config.ENABLE_ASSISTANTBOT == "ENABLE":
     path = "fridaybot/modules/assistant/*.py"
