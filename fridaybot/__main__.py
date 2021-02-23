@@ -40,7 +40,7 @@ for name in files:
     with open(name) as f:
         path1 = Path(f.name)
         shortname = path1.stem
-        try;
+        try:
            load_module(shortname.replace(".py", ""))
         except:
            pass
