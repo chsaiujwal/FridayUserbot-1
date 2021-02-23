@@ -4,6 +4,11 @@ moviepy
 nospamplus
 pymediainfo
 apscheduler
+git+https://github.com/chsaiujwal/maigret
+img2pdf
+google_images_download>=2.7.1
+fake_useragent
+rotten_tomatoes_client
 git+https://github.com/gleitz/howdoi
 pyseoanalyzer
 pokedex.py
